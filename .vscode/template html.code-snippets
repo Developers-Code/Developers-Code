@@ -1,0 +1,19 @@
+{
+	 "Print to console": {
+	 	"scope": "html",
+	 	"prefix": "tm",
+	 	"body": [
+	 		"<!DOCTYPE html>",
+			 "<html lang=>",
+			 "<head>",
+			 "    <title></title>",
+			 "    <!-- Load local javascript file to the page -->",
+			 "    <!-- Local style sheet files to the page -->",
+			 "</head>",
+			 "<body>",
+			 "</body>",
+			 "</html>",
+	 	],
+	 	"description": "Html Template"
+	 }
+}

@@ -1,0 +1,35 @@
+{
+	 "DC": {
+	 	"scope": "javascript,html",
+	 	"prefix": ["DC", "dc"],
+	 	"body": [
+	 		"Developers Code"
+	 	],
+	 	"description": ""
+	 },
+	"author": {
+		"scope": "javascript,html",
+		"prefix": ["author", "Author, au"],
+		"body": [
+			"Developers Code"
+		],
+		"description": ""
+	},
+	"keywords": {
+		"scope": "javascript,html",
+		"prefix": ["keyword", "key", "Keywords", "Key", "K"],
+		"body": [
+			"Developers Code, Captcha.verfication-Bot"
+		],
+		"description": ""
+	},
+	"Description": {
+		"scope": "javascript,html",
+		"prefix": ["Description", "description", "Des", "des"],
+		"body": [
+			"Developers Code website"
+		],
+		"description": ""
+	}
+
+}
